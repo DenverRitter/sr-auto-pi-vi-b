@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600">
+<rect width="900" height="1600" fill="#101827"/>
+<rect x="35" y="35" width="830" height="1530" rx="58" fill="#f5f7fb"/>
+<rect x="35" y="35" width="830" height="115" rx="58" fill="#f5f7fb"/>
+<text x="85" y="105" font-family="Arial" font-size="28" fill="#18243a">9:41</text>
+<text x="815" y="105" text-anchor="end" font-family="Arial" font-size="26" fill="#18243a">● ● ●</text>
+<rect x="75" y="165" width="750" height="115" rx="22" fill="#12233d"/>
+<text x="115" y="215" font-family="Arial" font-size="34" font-weight="bold" fill="#ffffff">S&amp;R AUTO</text>
+<text x="115" y="250" font-family="Arial" font-size="20" fill="#cbd8eb">Área do cliente</text>
+<text x="85" y="345" font-family="Arial" font-size="34" font-weight="bold" fill="#18243a">Olá! Como podemos ajudar?</text>
+
+<rect x="85" y="395" width="730" height="170" rx="24" fill="#dceaf7"/>
+<text x="125" y="460" font-family="Arial" font-size="28" font-weight="bold" fill="#12233d">Seu veículo em boas mãos</text>
+<text x="125" y="510" font-family="Arial" font-size="22" fill="#33445c">Consulte serviços e solicite atendimento.</text>
+<rect x="85" y="610" width="345" height="190" rx="22" fill="#ffffff" stroke="#cbd3df" stroke-width="2"/>
+<text x="125" y="690" font-family="Arial" font-size="28" fill="#1769aa">Meus veículos</text>
+<text x="125" y="745" font-family="Arial" font-size="20" fill="#65738a">Cadastrar e consultar</text>
+<rect x="470" y="610" width="345" height="190" rx="22" fill="#ffffff" stroke="#cbd3df" stroke-width="2"/>
+<text x="510" y="690" font-family="Arial" font-size="28" fill="#1769aa">Agendamentos</text>
+<text x="510" y="745" font-family="Arial" font-size="20" fill="#65738a">Solicitar horário</text>
+<rect x="85" y="840" width="345" height="190" rx="22" fill="#ffffff" stroke="#cbd3df" stroke-width="2"/>
+<text x="125" y="920" font-family="Arial" font-size="28" fill="#1769aa">Serviços</text>
+<text x="125" y="975" font-family="Arial" font-size="20" fill="#65738a">Conheça nossas opções</text>
+<rect x="470" y="840" width="345" height="190" rx="22" fill="#ffffff" stroke="#cbd3df" stroke-width="2"/>
+<text x="510" y="920" font-family="Arial" font-size="28" fill="#1769aa">Histórico</text>
+<text x="510" y="975" font-family="Arial" font-size="20" fill="#65738a">Serviços realizados</text>
+
+<rect x="75" y="1430" width="750" height="85" rx="20" fill="#12233d"/>
+<text x="450" y="1485" text-anchor="middle" font-family="Arial" font-size="22" fill="#ffffff">Início     Serviços     Veículos     Perfil</text>
+</svg>

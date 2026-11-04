@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1600" viewBox="0 0 900 1600">
+<rect width="900" height="1600" fill="#101827"/>
+<rect x="35" y="35" width="830" height="1530" rx="58" fill="#f5f7fb"/>
+<rect x="35" y="35" width="830" height="115" rx="58" fill="#f5f7fb"/>
+<text x="85" y="105" font-family="Arial" font-size="28" fill="#18243a">9:41</text>
+<text x="815" y="105" text-anchor="end" font-family="Arial" font-size="26" fill="#18243a">● ● ●</text>
+<rect x="75" y="165" width="750" height="115" rx="22" fill="#12233d"/>
+<text x="115" y="215" font-family="Arial" font-size="34" font-weight="bold" fill="#ffffff">S&amp;R AUTO</text>
+<text x="115" y="250" font-family="Arial" font-size="20" fill="#cbd8eb">Visão geral do negócio</text>
+<text x="85" y="345" font-family="Arial" font-size="34" font-weight="bold" fill="#18243a">Painel administrativo</text>
+
+<rect x="85" y="395" width="345" height="170" rx="20" fill="#e2eef9"/>
+<text x="120" y="455" font-family="Arial" font-size="22" fill="#52657c">Agendamentos</text>
+<text x="120" y="520" font-family="Arial" font-size="42" font-weight="bold" fill="#12233d">24</text>
+<rect x="470" y="395" width="345" height="170" rx="20" fill="#e2eef9"/>
+<text x="505" y="455" font-family="Arial" font-size="22" fill="#52657c">Atendimentos</text>
+<text x="505" y="520" font-family="Arial" font-size="42" font-weight="bold" fill="#12233d">18</text>
+<rect x="85" y="600" width="730" height="330" rx="22" fill="#ffffff" stroke="#cbd3df" stroke-width="2"/>
+<text x="120" y="660" font-family="Arial" font-size="26" font-weight="bold" fill="#18243a">Atendimentos por mês</text>
+<line x1="145" y1="850" x2="760" y2="850" stroke="#cbd3df" stroke-width="3"/>
+<rect x="190" y="770" width="65" height="80" fill="#1769aa"/>
+<rect x="300" y="720" width="65" height="130" fill="#1769aa"/>
+<rect x="410" y="745" width="65" height="105" fill="#1769aa"/>
+<rect x="520" y="680" width="65" height="170" fill="#1769aa"/>
+<rect x="630" y="700" width="65" height="150" fill="#1769aa"/>
+<text x="450" y="900" text-anchor="middle" font-family="Arial" font-size="18" fill="#65738a">Dados ilustrativos — não representam resultados reais</text>
+<rect x="85" y="970" width="730" height="260" rx="22" fill="#ffffff" stroke="#cbd3df" stroke-width="2"/>
+<text x="120" y="1030" font-family="Arial" font-size="26" font-weight="bold" fill="#18243a">Serviços mais realizados</text>
+<text x="125" y="1100" font-family="Arial" font-size="22" fill="#52657c">Troca de óleo</text>
+<rect x="350" y="1075" width="380" height="28" rx="14" fill="#1769aa"/>
+<text x="125" y="1160" font-family="Arial" font-size="22" fill="#52657c">Freios</text>
+<rect x="350" y="1135" width="270" height="28" rx="14" fill="#4b91c8"/>
+
+<rect x="75" y="1430" width="750" height="85" rx="20" fill="#12233d"/>
+<text x="450" y="1485" text-anchor="middle" font-family="Arial" font-size="22" fill="#ffffff">Início     Serviços     Veículos     Perfil</text>
+</svg>

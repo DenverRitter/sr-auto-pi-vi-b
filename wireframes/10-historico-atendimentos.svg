@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset="1" stop-color="#102943"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0878D1"/><stop offset="1" stop-color="#20A4F3"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1080" height="1920" fill="#e9eef4"/>
+<rect x="80" y="38" width="920" height="1844" rx="78" fill="#101820"/>
+<rect x="105" y="65" width="870" height="1790" rx="58" fill="url(#bg)"/>
+<rect x="425" y="82" width="230" height="28" rx="14" fill="#02070d"/>
+<text x="155" y="150" fill="#dce8f4" font-family="Arial" font-size="27">9:41</text>
+<text x="920" y="150" text-anchor="end" fill="#dce8f4" font-family="Arial" font-size="25">● ● ●  ▰</text>
+<text x="155" y="245" fill="#ffffff" font-family="Arial" font-size="47" font-weight="700">S&amp;R AUTO</text>
+<text x="155" y="292" fill="#91abc2" font-family="Arial" font-size="23">CENTRAL AUTOMOTIVA DIGITAL</text>
+<text x="155" y="390" fill="#ffffff" font-family="Arial" font-size="43" font-weight="700">Histórico</text>
+<text x="155" y="435" fill="#a9bfd2" font-family="Arial" font-size="25">Consulte os serviços realizados</text>
+
+<rect x="155" y="520" width="770" height="150" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="190" y="573" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700" text-anchor="start">Troca de pastilhas</text><text x="190" y="618" fill="#a9bfd2" font-family="Arial" font-size="23" font-weight="400" text-anchor="start">VW Gol  •  15/09/2026</text><rect x="730" y="555" width="160" height="48" rx="22" fill="#123f5f"/><text x="810" y="587" fill="#65c4ff" font-family="Arial" font-size="20" font-weight="700" text-anchor="middle">Concluído</text>
+<rect x="155" y="700" width="770" height="150" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="190" y="753" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700" text-anchor="start">Troca de óleo</text><text x="190" y="798" fill="#a9bfd2" font-family="Arial" font-size="23" font-weight="400" text-anchor="start">VW Gol  •  04/07/2026</text><rect x="730" y="735" width="160" height="48" rx="22" fill="#123f5f"/><text x="810" y="767" fill="#65c4ff" font-family="Arial" font-size="20" font-weight="700" text-anchor="middle">Concluído</text>
+<rect x="155" y="880" width="770" height="150" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="190" y="933" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700" text-anchor="start">Kit relação</text><text x="190" y="978" fill="#a9bfd2" font-family="Arial" font-size="23" font-weight="400" text-anchor="start">Honda CG 160  •  18/05/2026</text><rect x="730" y="915" width="160" height="48" rx="22" fill="#123f5f"/><text x="810" y="947" fill="#65c4ff" font-family="Arial" font-size="20" font-weight="700" text-anchor="middle">Concluído</text>
+<rect x="155" y="1080" width="770" height="210" rx="24" fill="#102b43" stroke="#2b526f" stroke-width="2"/>
+<text x="190" y="1145" fill="#ffffff" font-family="Arial" font-size="28" font-weight="700" text-anchor="start">Detalhes do atendimento</text>
+<text x="190" y="1195" fill="#a9bfd2" font-family="Arial" font-size="23" font-weight="400" text-anchor="start">Consulte serviços, observações e</text>
+<text x="190" y="1235" fill="#a9bfd2" font-family="Arial" font-size="23" font-weight="400" text-anchor="start">registros vinculados ao veículo.</text>
+<rect x="125" y="1740" width="830" height="90" rx="28" fill="#142e47" stroke="#2d4d69" stroke-width="2"/>
+<circle cx="230" cy="1767" r="8" fill="#9bb2c6"/>
+<text x="230" y="1805" text-anchor="middle" fill="#9bb2c6" font-family="Arial" font-size="22" font-weight="600">Início</text>
+<circle cx="435" cy="1767" r="8" fill="#9bb2c6"/>
+<text x="435" y="1805" text-anchor="middle" fill="#9bb2c6" font-family="Arial" font-size="22" font-weight="600">Serviços</text>
+<circle cx="640" cy="1767" r="8" fill="#9bb2c6"/>
+<text x="640" y="1805" text-anchor="middle" fill="#9bb2c6" font-family="Arial" font-size="22" font-weight="600">Agenda</text>
+<circle cx="845" cy="1767" r="8" fill="#35a8f5"/>
+<text x="845" y="1805" text-anchor="middle" fill="#35a8f5" font-family="Arial" font-size="22" font-weight="600">Perfil</text>
+</svg>

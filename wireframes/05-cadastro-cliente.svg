@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset="1" stop-color="#102943"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0878D1"/><stop offset="1" stop-color="#20A4F3"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1080" height="1920" fill="#e9eef4"/>
+<rect x="80" y="38" width="920" height="1844" rx="78" fill="#101820"/>
+<rect x="105" y="65" width="870" height="1790" rx="58" fill="url(#bg)"/>
+<rect x="425" y="82" width="230" height="28" rx="14" fill="#02070d"/>
+<text x="155" y="150" fill="#dce8f4" font-family="Arial" font-size="27">9:41</text>
+<text x="920" y="150" text-anchor="end" fill="#dce8f4" font-family="Arial" font-size="25">● ● ●  ▰</text>
+<text x="155" y="245" fill="#ffffff" font-family="Arial" font-size="47" font-weight="700">S&amp;R AUTO</text>
+<text x="155" y="292" fill="#91abc2" font-family="Arial" font-size="23">CENTRAL AUTOMOTIVA DIGITAL</text>
+<text x="155" y="390" fill="#ffffff" font-family="Arial" font-size="43" font-weight="700">Criar conta</text>
+<text x="155" y="435" fill="#a9bfd2" font-family="Arial" font-size="25">Cadastre-se para acessar os serviços</text>
+
+<rect x="155" y="510" width="770" height="100" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="185" y="544" fill="#91abc2" font-family="Arial" font-size="21" font-weight="600" text-anchor="start">NOME COMPLETO</text><text x="185" y="585" fill="#dce8f4" font-family="Arial" font-size="27" font-weight="400" text-anchor="start">Seu nome e sobrenome</text>
+<rect x="155" y="635" width="770" height="100" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="185" y="669" fill="#91abc2" font-family="Arial" font-size="21" font-weight="600" text-anchor="start">E-MAIL</text><text x="185" y="710" fill="#dce8f4" font-family="Arial" font-size="27" font-weight="400" text-anchor="start">seuemail@exemplo.com</text>
+<rect x="155" y="760" width="770" height="100" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="185" y="794" fill="#91abc2" font-family="Arial" font-size="21" font-weight="600" text-anchor="start">CELULAR</text><text x="185" y="835" fill="#dce8f4" font-family="Arial" font-size="27" font-weight="400" text-anchor="start">(00) 00000-0000</text>
+<rect x="155" y="885" width="770" height="100" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="185" y="919" fill="#91abc2" font-family="Arial" font-size="21" font-weight="600" text-anchor="start">SENHA</text><text x="185" y="960" fill="#dce8f4" font-family="Arial" font-size="27" font-weight="400" text-anchor="start">••••••••</text>
+<rect x="155" y="1010" width="770" height="100" rx="22" fill="#173650" stroke="#2b526f" stroke-width="2"/><text x="185" y="1044" fill="#91abc2" font-family="Arial" font-size="21" font-weight="600" text-anchor="start">CONFIRMAR SENHA</text><text x="185" y="1085" fill="#dce8f4" font-family="Arial" font-size="27" font-weight="400" text-anchor="start">••••••••</text>
+<rect x="155" y="1160" width="770" height="94" rx="25" fill="url(#blue)"/><text x="540" y="1220" fill="#ffffff" font-family="Arial" font-size="30" font-weight="700" text-anchor="middle">CRIAR MINHA CONTA</text>
+<text x="540" y="1320" fill="#65c4ff" font-family="Arial" font-size="26" font-weight="600" text-anchor="middle">Já possui cadastro? Entrar</text>
+<text x="540" y="1500" fill="#91abc2" font-family="Arial" font-size="23" font-weight="400" text-anchor="middle">Seus dados serão utilizados para</text>
+<text x="540" y="1538" fill="#91abc2" font-family="Arial" font-size="23" font-weight="400" text-anchor="middle">identificação e atendimento.</text>
+<rect x="125" y="1740" width="830" height="90" rx="28" fill="#142e47" stroke="#2d4d69" stroke-width="2"/>
+<circle cx="230" cy="1767" r="8" fill="#9bb2c6"/>
+<text x="230" y="1805" text-anchor="middle" fill="#9bb2c6" font-family="Arial" font-size="22" font-weight="600">Início</text>
+<circle cx="435" cy="1767" r="8" fill="#9bb2c6"/>
+<text x="435" y="1805" text-anchor="middle" fill="#9bb2c6" font-family="Arial" font-size="22" font-weight="600">Serviços</text>
+<circle cx="640" cy="1767" r="8" fill="#9bb2c6"/>
+<text x="640" y="1805" text-anchor="middle" fill="#9bb2c6" font-family="Arial" font-size="22" font-weight="600">Agenda</text>
+<circle cx="845" cy="1767" r="8" fill="#35a8f5"/>
+<text x="845" y="1805" text-anchor="middle" fill="#35a8f5" font-family="Arial" font-size="22" font-weight="600">Perfil</text>
+</svg>
